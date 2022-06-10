@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/jagangajendran.plainlit-l48hu0o6",
+  "version": "0.0.0",
+  "description": "custom counter web component",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve MIazdv1NbJM8Df7f9QyP --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
